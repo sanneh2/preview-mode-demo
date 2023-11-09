@@ -1,5 +1,5 @@
 # Next.js: SSG + Preview Mode Demo
-
+Uses MongoDB. Initial Data might need to be pre-filled. Or not. I don't know, but once it saves after editing it works
 This demo showcases Next.js' next-gen Static Site Generation (SSG) support.
 
 ## About
