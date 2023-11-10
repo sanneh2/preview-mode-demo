@@ -21,12 +21,12 @@
 }
 
 .layout aside a::after {
-  content: ' — Click to Exit';
+  content: " — Click to Exit (All changes will be lost)";
 }
 
 @media (max-width: 768px) {
   .layout aside a::after {
-    content: ' — Tap to Exit';
+    content: " — Tap to Exit";
   }
 }
 

@@ -10,7 +10,6 @@
   "dependencies": {
     "@reach/alert-dialog": "^0.8.6",
     "@reach/dialog": "^0.8.5",
-    "aws-sdk": "^2.632.0",
     "copy-to-clipboard": "^3.3.1",
     "mongodb": "^6.2.0",
     "next": "^12.1.0",

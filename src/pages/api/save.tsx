@@ -1,4 +1,3 @@
-import S3 from "aws-sdk/clients/s3";
 import type { NextApiRequest, NextApiResponse } from "next";
 import { generate as generateId } from "shortid";
 import clientPromise from "../../lib/db";
